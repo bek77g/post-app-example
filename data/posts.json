@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "title": "Пост о программировании",
+    "content": "В этом посте мы поговорим о программировании и его важности в современном мире. Программирование - это увлекательное и творческое дело, которое позволяет создавать программы и веб-сайты.",
+    "author": "John Doe",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "id": "2",
+    "title": "Путешествие в Париж",
+    "content": "Сегодня я поделюсь своими впечатлениями о путешествии в Париж. Этот город просто потрясающий с его красивой архитектурой, изысканной кухней и романтической атмосферой.",
+    "author": "Azat",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "id": "3",
+    "title": "Рецепт приготовления пиццы",
+    "content": "Сегодня мы поделимся рецептом приготовления вкусной пиццы. Вам понадобятся тесто, соус, сыр, и ваши любимые начинки. Пицца - это отличный вариант для ужина в выходной день.",
+    "author": "Alice Johnson",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "QWERTY",
+    "content": "ZXCVBN",
+    "author": "sdfghjk,",
+    "id": "88a11743-38e8-4fee-a3b1-a7df238922ab",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "Client side",
+    "content": "lorem ipsum",
+    "author": "Azat",
+    "id": "3a5b3aea-2a52-4f9a-be64-220688fb5338",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "Azat posted new post",
+    "content": "Some text and content",
+    "author": "Dilya",
+    "id": "f0da4dc2-0995-4b4c-9ff7-0a65890e8634",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "QWERTYU",
+    "content": "fdg dfhg [fasdh ad adgh ",
+    "author": "Beknur",
+    "id": "bbd2b83b-559e-4ac4-bb85-ad812d29caa6",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "fds",
+    "content": "sdf",
+    "author": "sdf",
+    "id": "8e25c582-1561-4143-a9cc-c7d7a812e75e",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "QWERTYU",
+    "content": "sdfsdf",
+    "author": "sdfsdfsdf",
+    "id": "f189b98d-3f23-40d1-9930-91ec71785bfa",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "sdfsdf",
+    "content": "sdfsdf",
+    "author": "sdfsdf",
+    "id": "11c6c14f-393e-4759-84c8-84d691a66fc4",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "sdfsd",
+    "content": "sdf",
+    "author": "sdfsd",
+    "id": "6018520d-feab-40f2-b456-4a116ce71ac1",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d"
+  },
+  {
+    "title": "123123",
+    "content": "123123123",
+    "author": "Seitzhan",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d",
+    "id": "8ba8d292-0fca-4198-91b0-be4e2f8294c3"
+  },
+  {
+    "title": "234234",
+    "content": "234234234",
+    "author": "Seitzhan",
+    "userId": "71016a1a-cd3f-40dc-9b84-7a8b6ec7173d",
+    "id": "54196284-4ccc-4d96-be9c-b1846f1f4b22"
+  },
+  {
+    "title": "sdfsdf",
+    "content": "sdfsdf",
+    "author": "Azat",
+    "userId": "1960b482-a4fb-4260-8154-2d8d21fb8e56",
+    "id": "52bdcdfa-59a3-4c48-b41a-638184463f7a"
+  }
+]
